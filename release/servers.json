@@ -1,0 +1,67 @@
+﻿{
+  "default_server": "file-mysor",
+  "servers": [
+    {
+      "id": "file-mysor",
+      "name": "SURVIVAL SCUM PVE [MAX Loot] [MAX Transport][MOD+]",
+      "description": "НАСТРОЙКИ СЕРВЕРА\n\n🤑 ЛУТ X10\n\n🦾 СКИЛ X1\n\n🥱 УСТАЛОСТЬ ВКЛЮЧЕНА. МЕТАБОЛИЗМ УМЕНЬШЕН.\n\n🚘 МАШИНЫ: МАКС. УРОН ВКЛЮЧЕН. ВРЕМЯ ХРАНЕНИЯ В МИРЕ 10 ДНЕЙ, У ТРЕЙДЕРА 2 ЧАСА.\n\n🐴 ОХОТА УВЕЛИЧЕНА. ЖИВОТНЫЕ В МИРЕ ПО ОФИЦИАЛЬНЫМ НАСТРОЙКАМ.\n\n🧱 СТРОЙКА: 1000 ЭЛЕМЕНТОВ + 100 ЗА КАЖДОГО ЧЛЕНА ОТРЯДА.\n\n🤖 РОБОТЫ ПО ВЫХОДНЫМ. ЛУТ ПЕРЕРАБОТАН.\n\n🎁 ДРОПЫ КАЖДЫЕ 60 МИНУТ. ЛУТ ПЕРЕРАБОТАН.\n\n📙 ЗАДАНИЯ ВКЛЮЧЕНЫ.\n\n👨🏿‍🤝‍👨🏿 ЧИСЛЕННОСТЬ ОТРЯДА 10 ЧЕЛОВЕК.\n\nОСНОВНЫЕ МЕХАНИКИ ИГРЫ: ОФИЦИАЛЬНЫЕ НАСТРОЙКИ.\n\n💫 РЕСТАРТ СЕРВЕРА КАЖДЫЕ 3 ЧАСА: 00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00, 21:00.",
+      "description_en": "SERVER SETTINGS\n\n💰 LOOT X10\n\n🧠 SKILL X1\n\n🥵 FATIGUE ENABLED. METABOLISM REDUCED.\n\n🚘 VEHICLES: MAX LIMIT. DAMAGE ENABLED. WORLD STORAGE TIME 10 DAYS, TRADER STORAGE 2 HOURS.\n\n🐴 HUNTING INCREASED. ANIMALS USE OFFICIAL WORLD SETTINGS.\n\n🧱 BUILDING: 1000 ELEMENTS + 100 FOR EACH SQUAD MEMBER.\n\n🤖 MECHS ON WEEKENDS. LOOT REWORKED.\n\n🎁 AIR DROPS EVERY 60 MINUTES. LOOT REWORKED.\n\n📝 MISSIONS ENABLED.\n\n👥 SQUAD SIZE 10 PLAYERS.\n\nMAIN GAME MECHANICS: OFFICIAL SETTINGS.\n\n💫 SERVER RESTART EVERY 3 HOURS: 00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00, 21:00.",
+      "connect": "109.248.4.59:7002",
+      "discord_url": "https://discord.gg/jgZQfPGVak",
+      "wargm_url": "https://wargm.ru/server/72038",
+      "preinstalled_mods": [
+        "📦 1. ЭКИПИРОВКА\nСтартовый сет: Теперь каждый выживший получает кастомный стартовый набор — Военный черный сет. Стиль и защита с первых минут!",
+        "👤 2. СИСТЕМА NPC\nРеальная угроза: NPC теперь активны повсюду! Соблюден баланс сил с зомби (30/70). Будьте бдительны — враг может ждать за любым кустом.\nОхрана дропа: Air-Drop теперь защищают элитные NPC 3-го уровня. Лут достанется только сильнейшим!",
+        "⚡ 3. БАФФЫ И РАСХОДНИКИ\nЭнергетики и Кофе: Теперь это не просто напитки. Они дают реальный бафф вашему персонажу, повышая эффективность в полевых условиях.",
+        "🧟 4. МУТАНТЫ (РАДИОАКТИВНЫЕ ЗОМБИ)\nМутировавшие клетки: Радиоактивные зомби стали невероятно крепкими из-за мутаций. Победить их сложно, но награда внутри них оправдает любой риск!"
+      ],
+      "preinstalled_mods_en": [
+        "📦 1. EQUIPMENT\nStarter set: Every survivor now receives a custom starting loadout - Black Military Set. Style and protection from the very first minutes!",
+        "👤 2. NPC SYSTEM\nReal threat: NPCs are now active everywhere. The balance with zombies is preserved (30/70). Stay alert - danger may be waiting behind any bush.\nAir-drop security: Air-drops are now guarded by elite level 3 NPCs. Only the strongest will earn the loot!",
+        "⚡ 3. BUFFS AND CONSUMABLES\nEnergy drinks and coffee: These are no longer just beverages. They now grant a real buff to your character, improving effectiveness in the field.",
+        "🧟 4. MUTANTS (RADIOACTIVE ZOMBIES)\nMutated cells: Radioactive zombies have become incredibly tough due to mutations. They are hard to defeat, but the reward inside them is worth the risk!"
+      ],
+      "download_mode": "github",
+      "github_owner": "artemis4822-del",
+      "github_repo": "LITE",
+      "github_branch": "main",
+      "github_path": "",
+      "use_github_token": false,
+      "mod_urls": [],
+      "launch_options": []
+    },
+    {
+      "id": "hard-survival-scum",
+      "name": "SURVIVAL SCUM Hard PVE [Loot x0,5][Zombi x2][Robots ON][MOD+]",
+      "description": "▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n🌲 HARD SURVIVAL SCUM PVE 🌲\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n📡 ПОДКЛЮЧЕНИЕ К СЕРВЕРУ\n🌍 IP АДРЕС: 109.248.4.12:7008\n\n💬 DISCORD: https://discord.gg/xzRePPZqJu\n\n👤 АДМИНИСТРАЦИЯ: Приветливая, всегда выслушает и примет меры!\n\n⚙️ ТЕХНИЧЕСКИЕ НАСТРОЙКИ\nОСНОВНЫЕ РЕЙТЫ:\n\n📦 ЛУТ: x0.5 (Хардкор)\n\n🧠 СКИЛЛЫ: x1 (Классика)\n\n🎁 ДРОПЫ: Интервал от 1 до 2 часов.\n\n📜 ЗАДАНИЯ: Включены.\n\nУГРОЗЫ И СЛОЖНОСТЬ:\n\n🧟 ЗОМБИ: Здоровье и мощь x2 | Спавн x2.\n\n🤖 РОБОТЫ: Включены.\n\n🛡️ NPC: Коэффициент сложности x2.\n\n💤 УСТАЛОСТЬ: Включено (Следите за персонажем!).\n\n🏎️ ТРАНСПОРТ И СТРОИТЕЛЬСТВО\n\nАВТОМОБИЛИ: Урон включён!\n\nХРАНЕНИЕ: В мире — 10 дней, у трейдера — 2 часа.\n\nСТРОЙКА: 1000 элементов + 100 за каждого члена отряда.\n\nОТРЯД: Лимит до 10 человек.\n\n🔄 ГРАФИК РЕСТАРТОВ (МСК)\n00:00 • 03:00 • 06:00 • 09:00\n12:00 • 15:00 • 18:00 • 21:00\n\n💡 СОВЕТ: Перед началом игры обязательно ознакомьтесь с правилами сервера, чтобы ваше выживание было комфортным!\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
+      "description_en": "▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n🌲 HARD SURVIVAL SCUM PVE 🌲\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n📡 SERVER CONNECTION\n🌍 IP ADDRESS: 109.248.4.12:7008\n\n💬 DISCORD: https://discord.gg/xzRePPZqJu\n\n👤 ADMINISTRATION: Friendly, responsive, and always ready to step in when needed.\n\n⚙️ TECHNICAL SETTINGS\nMAIN RATES:\n\n📦 LOOT: x0.5 (Hardcore)\n\n🧠 SKILLS: x1 (Classic)\n\n🎁 AIR DROPS: Every 1 to 2 hours.\n\n📜 MISSIONS: Enabled.\n\nTHREATS AND DIFFICULTY:\n\n🧟 ZOMBIES: Health and power x2 | Spawn x2.\n\n🤖 MECHS: Enabled.\n\n🛡️ NPC: Difficulty multiplier x2.\n\n💤 FATIGUE: Enabled (Keep an eye on your character!).\n\n🏎️ TRANSPORT AND BUILDING\n\nVEHICLES: Damage enabled!\n\nSTORAGE: 10 days in the world, 2 hours at trader storage.\n\nBUILDING: 1000 elements + 100 for each squad member.\n\nSQUAD: Up to 10 players.\n\n🔄 RESTART SCHEDULE (MSK)\n00:00 • 03:00 • 06:00 • 09:00\n12:00 • 15:00 • 18:00 • 21:00\n\n💡 TIP: Before you start playing, be sure to read the server rules so your survival experience stays smooth and comfortable!\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
+      "connect": "109.248.4.12:7008",
+      "discord_url": "https://discord.gg/xzRePPZqJu",
+      "wargm_url": "https://wargm.ru/server/77463",
+      "preinstalled_mods": [
+        "📦 1. ЭКИПИРОВКА\nСтартовый сет: Теперь каждый выживший получает кастомный стартовый набор — Военный черный сет. Стиль и защита с первых минут!",
+        "👤 2. СИСТЕМА NPC\nРеальная угроза: NPC теперь активны повсюду! Соблюден баланс сил с зомби (30/70). Будьте бдительны — враг может ждать за любым кустом.\nОхрана дропа: Air-Drop теперь защищают элитные NPC 3-го уровня. Лут достанется только сильнейшим!",
+        "⚡ 3. БАФФЫ И РАСХОДНИКИ\nЭнергетики и Кофе: Теперь это не просто напитки. Они дают реальный бафф вашему персонажу, повышая эффективность в полевых условиях.",
+        "🧠 4. ПРОКАЧКА И ЛУТ\nНавык «Внимательность»: Теперь этот навык критически важен! Чем выше уровень внимательности, тем выше ваш индивидуальный рейт лута. Качайте восприятие, чтобы находить лучшее снаряжение!",
+        "🧟 5. МУТАНТЫ (РАДИОАКТИВНЫЕ ЗОМБИ)\nМутировавшие клетки: Радиоактивные зомби стали невероятно крепкими из-за мутаций. Победить их сложно, но награда внутри них оправдает любой риск!"
+      ],
+      "preinstalled_mods_en": [
+        "📦 1. EQUIPMENT\nStarter set: Every survivor now receives a custom starting loadout - Black Military Set. Style and protection from the very first minutes!",
+        "👤 2. NPC SYSTEM\nReal threat: NPCs are now active everywhere. The balance with zombies is preserved (30/70). Stay alert - danger may be waiting behind any bush.\nAir-drop security: Air-drops are now guarded by elite level 3 NPCs. Only the strongest will earn the loot!",
+        "⚡ 3. BUFFS AND CONSUMABLES\nEnergy drinks and coffee: These are no longer just beverages. They now grant a real buff to your character, improving effectiveness in the field.",
+        "🧠 4. PROGRESSION AND LOOT\nAwareness skill: This skill is now critically important! The higher your awareness level, the higher your personal loot rate. Train perception to find better gear!",
+        "🧟 5. MUTANTS (RADIOACTIVE ZOMBIES)\nMutated cells: Radioactive zombies have become incredibly tough due to mutations. They are hard to defeat, but the reward inside them is worth the risk!"
+      ],
+      "download_mode": "github",
+      "github_owner": "artemis4822-del",
+      "github_repo": "Hard",
+      "github_branch": "main",
+      "github_path": "",
+      "use_github_token": false,
+      "mod_urls": [],
+      "launch_options": []
+    }
+  ]
+}
+
+
