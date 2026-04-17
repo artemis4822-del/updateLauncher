@@ -1,8 +1,8 @@
 {
-    "version":  "0.2.8",
+    "version":  "0.2.9",
     "config_url":  "https://raw.githubusercontent.com/artemis4822-del/updateLauncher/main/release/servers.json",
     "launch_exe":  "SURVIVAL SCUM Launcher.exe",
-    "sha256":  "6a49fb387a77ff60367a5da71894f9cce38ca96986097635813ad2ea77892d95",
-    "download_url":  "https://raw.githubusercontent.com/artemis4822-del/updateLauncher/main/release/SURVIVAL_SCUM_Launcher_v0.2.8_win64.zip",
-    "notes":  "Release 0.2.8"
+    "sha256":  "e37a4cef1d5eb403a0bb22bc9bf00f0401b4df67d962126306caa8367fe8dfb0",
+    "download_url":  "https://raw.githubusercontent.com/artemis4822-del/updateLauncher/main/release/SURVIVAL_SCUM_Launcher_v0.2.9_win64.zip",
+    "notes":  "Release 0.2.9"
 }
